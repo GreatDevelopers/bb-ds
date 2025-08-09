@@ -1,0 +1,15 @@
+/* assets/css/global.css */
+body {
+  background: #f6f8fa;
+  color: #222;
+  margin: 0;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+strong {
+  color: #6528D7;
+}
+
+div {
+  padding: 3rem;
+}
