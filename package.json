@@ -21,6 +21,7 @@
     "@thatopen/fragments": "^3.1.6",
     "@thatopen/ui": "^3.1.1",
     "@thatopen/ui-obc": "^3.1.2",
+    "mathjax-full": "^3.2.2",
     "nuxt": "^4.0.1",
     "vue": "^3.5.18",
     "vue-router": "^4.5.1"
